@@ -1,0 +1,9 @@
+{
+  "name": "closure-heap",
+  "version": "1.0.0",
+  "description": "Heap implementation extracted from Google Closure",
+  "main": "heap.js",
+  "scripts": {},
+  "contributors": ["The Closure Library Authors", "Jeremy Apthorp <nornagon@nornagon.net>"],
+  "license": "Apache-2.0"
+}
